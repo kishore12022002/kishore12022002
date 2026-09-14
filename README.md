@@ -40,10 +40,10 @@ My main development focus is the **Microsoft .NET ecosystem**, together with **A
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java" />
 </p>
 
-**C# • .NET • .NET Framework • ASP.NET • REST APIs**
+**C# • .NET • .NET Framework • ASP.NET • REST APIs • JAVA**
 
 ### Frontend
 <p>
