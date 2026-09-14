@@ -2,7 +2,7 @@
 
 <!-- <img src="./assets/kishore-anime.png" alt="Kishore P - Software Developer" width="100%"/> -->
 
-# 👋 Hi, I'm Kishore P
+# 👋 Hi, I'm Kishore
 
 ### Software Developer • Full-Stack Development • .NET • Angular
 
