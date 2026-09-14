@@ -107,7 +107,7 @@ DevOps & Deployment       ███████████████░░░
 - 🌍 WordPress development
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -139,7 +139,7 @@ DevOps & Deployment       ███████████████░░░
 </div>
 
 ---
-
+-->
 ## 🎯 Currently Focused On
 
 - 🚀 Building better full-stack applications
